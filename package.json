@@ -1,0 +1,19 @@
+{
+  "name": "coder-proyecto-boostrap",
+  "version": "1.0.0",
+  "description": "probando sass",
+  "main": "index.js",
+  "scripts": {
+   "start": "sass estilos.scss ./css/estilos.css -w --no-source-map -s compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandd2002/Proyecto-Coder-Yamaha.git"
+  },
+  "author": "Brandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandd2002/Proyecto-Coder-Yamaha/issues"
+  },
+  "homepage": "https://github.com/Brandd2002/Proyecto-Coder-Yamaha#readme"
+}
